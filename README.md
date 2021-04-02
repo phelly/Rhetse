@@ -1,0 +1,2 @@
+# Rhetse
+ A static website
